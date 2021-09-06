@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Computer Engineering From Savitribai Phule Pune University. I'm selected in Skill India Python for AI/ML internship at Elite Techno Groups.
  
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at: LinkedIn - 
+- 📫 Reach me at: LinkedIn : https://linkedin.com/in/saakshipadamwar
+                  Instagram : https://instagram.com/saakshi.padamwar
 
 <!---
 saakshipadamwar/saakshipadamwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
