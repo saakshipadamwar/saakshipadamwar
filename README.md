@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saakshipadamwar
 - 👀 I’m interested in Data science and Python 
-- 🌱 I’m currently learning Computer Engineering From Savitribai Phule Pune University. I have completed my first internship with Elite Techno Groups as Python for AI/ML intern.
+- 🌱 I’m currently pursuing Computer Engineering from Savitribai Phule Pune University. I have completed my first internship with Elite Techno Groups as Python for AI/ML intern.
 - 📫 Reach me at: LinkedIn : https://linkedin.com/in/saakshipadamwar
                    Instagram : https://instagram.com/saakshi.padamwar
 
