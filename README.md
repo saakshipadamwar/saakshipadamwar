@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @saakshipadamwar
 - 👀 I’m interested in Data science and Python 
-- 🌱 I’m currently learning Computer Engineering From Savitribai Phule Pune University. I'm selected in Skill India Python for AI/ML internship at Elite Techno Groups.
- 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Engineering From Savitribai Phule Pune University. I have completed my first internship with Elite Techno Groups as Python for AI/ML intern.
 - 📫 Reach me at: LinkedIn : https://linkedin.com/in/saakshipadamwar
-                  Instagram : https://instagram.com/saakshi.padamwar
+                   Instagram : https://instagram.com/saakshi.padamwar
 
 <!---
 saakshipadamwar/saakshipadamwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
